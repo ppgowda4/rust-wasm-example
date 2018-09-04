@@ -1,0 +1,10 @@
+[package]
+name = "factorial-multiply"
+version = "0.1.0"
+authors = ["P, Punith <Punith.P@emc.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+uint = "0.4.1"

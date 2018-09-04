@@ -1,0 +1,3 @@
+#  exclude everything listed below
+1
+/factorial-multiply/target/*
